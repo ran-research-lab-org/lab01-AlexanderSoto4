@@ -2,8 +2,6 @@
 // (Alexander Soto)
 // This program adds two numbers
 
-#include <iostream>
-
 int main() {
   int number1, number2, sum;
   number1 = 12;
