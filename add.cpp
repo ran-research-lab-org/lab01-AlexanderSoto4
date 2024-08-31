@@ -17,4 +17,4 @@ int main() {
 //// 
 //// 5/10
 //// Programa no compila. (-5 pts)
-//// error en linea 11.
+//// error en linea 10 y 11.
