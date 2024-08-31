@@ -6,7 +6,7 @@
 
 int main() {
   std::cout << "Hello World!" << std::endl;
-  std::cout << "Solar System!" << std::endl;
+  std::cout << "Solar System!" << std::endl;        /////faltó "Hello"
   std::cout << "Hello Galaxy!" << std::endl;
   std::cout << "Hello Universe" << std::endl;
   std::cout << "Hello ... ?!" << std::endl;
@@ -20,3 +20,5 @@ int main() {
   return 0;
 }
 
+////
+//// 9.75/10
